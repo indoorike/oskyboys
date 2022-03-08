@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oskyboys/static/css/main.bccb53eb.css",
-    "main.js": "/oskyboys/static/js/main.ffaa6f87.js",
+    "main.js": "/oskyboys/static/js/main.2810d72c.js",
     "static/media/player-parent-handbook.pdf": "/oskyboys/static/media/player-parent-handbook.87d279d70889b804fd8c.pdf",
     "static/media/banner2.jpg": "/oskyboys/static/media/banner2.ed497efbeadda42a0068.jpg",
     "static/media/banner1.jpg": "/oskyboys/static/media/banner1.ef20743dd670bd4631d5.jpg",
@@ -18,10 +18,10 @@
     "static/media/greg.jpeg": "/oskyboys/static/media/greg.c42c0e0d2f72763eb34e.jpeg",
     "index.html": "/oskyboys/index.html",
     "main.bccb53eb.css.map": "/oskyboys/static/css/main.bccb53eb.css.map",
-    "main.ffaa6f87.js.map": "/oskyboys/static/js/main.ffaa6f87.js.map"
+    "main.2810d72c.js.map": "/oskyboys/static/js/main.2810d72c.js.map"
   },
   "entrypoints": [
     "static/css/main.bccb53eb.css",
-    "static/js/main.ffaa6f87.js"
+    "static/js/main.2810d72c.js"
   ]
 }
