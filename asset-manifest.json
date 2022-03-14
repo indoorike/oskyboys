@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oskyboys/static/css/main.34ce2ff8.css",
+    "main.css": "/oskyboys/static/css/main.f417505c.css",
     "main.js": "/oskyboys/static/js/main.8ca3eee3.js",
     "static/media/player-parent-handbook.pdf": "/oskyboys/static/media/player-parent-handbook.87d279d70889b804fd8c.pdf",
     "static/media/HeadsUpConcussionFactSheet.pdf": "/oskyboys/static/media/HeadsUpConcussionFactSheet.1825873892ccb9cbbd7f.pdf",
@@ -17,11 +17,11 @@
     "static/media/ConsentMedicalTreatment.pdf": "/oskyboys/static/media/ConsentMedicalTreatment.7bfa728d9b25eadbb08c.pdf",
     "static/media/greg.jpeg": "/oskyboys/static/media/greg.c42c0e0d2f72763eb34e.jpeg",
     "index.html": "/oskyboys/index.html",
-    "main.34ce2ff8.css.map": "/oskyboys/static/css/main.34ce2ff8.css.map",
+    "main.f417505c.css.map": "/oskyboys/static/css/main.f417505c.css.map",
     "main.8ca3eee3.js.map": "/oskyboys/static/js/main.8ca3eee3.js.map"
   },
   "entrypoints": [
-    "static/css/main.34ce2ff8.css",
+    "static/css/main.f417505c.css",
     "static/js/main.8ca3eee3.js"
   ]
 }
