@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/oskyboys/static/css/main.f417505c.css",
-    "main.js": "/oskyboys/static/js/main.8ca3eee3.js",
+    "main.css": "/oskyboys/static/css/main.0af1d035.css",
+    "main.js": "/oskyboys/static/js/main.8382bed0.js",
     "static/media/player-parent-handbook.pdf": "/oskyboys/static/media/player-parent-handbook.87d279d70889b804fd8c.pdf",
+    "static/media/stats-1.png": "/oskyboys/static/media/stats-1.f0ee0e26e935f23701a6.png",
     "static/media/HeadsUpConcussionFactSheet.pdf": "/oskyboys/static/media/HeadsUpConcussionFactSheet.1825873892ccb9cbbd7f.pdf",
     "static/media/banner1.jpg": "/oskyboys/static/media/banner1.e45e52fad2f2ee54d4e6.jpg",
     "static/media/banner4.jpg": "/oskyboys/static/media/banner4.12a830486e28625b9683.jpg",
@@ -17,11 +18,11 @@
     "static/media/ConsentMedicalTreatment.pdf": "/oskyboys/static/media/ConsentMedicalTreatment.7bfa728d9b25eadbb08c.pdf",
     "static/media/greg.jpeg": "/oskyboys/static/media/greg.c42c0e0d2f72763eb34e.jpeg",
     "index.html": "/oskyboys/index.html",
-    "main.f417505c.css.map": "/oskyboys/static/css/main.f417505c.css.map",
-    "main.8ca3eee3.js.map": "/oskyboys/static/js/main.8ca3eee3.js.map"
+    "main.0af1d035.css.map": "/oskyboys/static/css/main.0af1d035.css.map",
+    "main.8382bed0.js.map": "/oskyboys/static/js/main.8382bed0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f417505c.css",
-    "static/js/main.8ca3eee3.js"
+    "static/css/main.0af1d035.css",
+    "static/js/main.8382bed0.js"
   ]
 }
