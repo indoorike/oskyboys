@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08e1e698.css",
-    "main.js": "/static/js/main.ba7600d4.js",
+    "main.js": "/static/js/main.a93b7196.js",
     "static/media/player-parent-handbook.pdf": "/static/media/player-parent-handbook.87d279d70889b804fd8c.pdf",
     "static/media/stats-1.png": "/static/media/stats-1.f0ee0e26e935f23701a6.png",
     "static/media/banner4.jpeg": "/static/media/banner4.67cb4c5abe43e41d841c.jpeg",
@@ -19,10 +19,10 @@
     "static/media/greg.jpeg": "/static/media/greg.c42c0e0d2f72763eb34e.jpeg",
     "index.html": "/index.html",
     "main.08e1e698.css.map": "/static/css/main.08e1e698.css.map",
-    "main.ba7600d4.js.map": "/static/js/main.ba7600d4.js.map"
+    "main.a93b7196.js.map": "/static/js/main.a93b7196.js.map"
   },
   "entrypoints": [
     "static/css/main.08e1e698.css",
-    "static/js/main.ba7600d4.js"
+    "static/js/main.a93b7196.js"
   ]
 }
