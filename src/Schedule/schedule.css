@@ -1,0 +1,11 @@
+.schedule {
+  margin-top: 2rem;
+}
+.schedule-download {
+  width: fit-content;
+  margin: auto;
+}
+
+.schedule img {
+  max-width: 100%;
+}

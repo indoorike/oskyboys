@@ -1,0 +1,11 @@
+.images-container {
+  width: fit-content;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.images-container img {
+  max-width: 100%;
+}

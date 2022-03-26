@@ -1,0 +1,55 @@
+.home {
+  position: relative;
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  position: relative;
+  margin-top: 2rem;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.home-section {
+  height: 20rem;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.home-section h1 {
+  position: relative;
+  margin: 0px;
+  font-size: 2rem;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  border-bottom: 1px solid black;
+}
+
+.home-section img {
+  display: block;
+  max-width: 100%;
+  position: absolute;
+  object-position: 300%;
+  object-fit: 300%;
+  z-index: -100;
+  top: 15%;
+  margin: auto;
+}
+
+.home-section input {
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 10rem;
+  align-self: center;
+  background-color: #500404;
+  color: white;
+  font-size: 1.25rem;
+  border: 3px solid black;
+  padding: 10px;
+}
+.home-section input:hover {
+  color: #500404;
+  background-color: white;
+}

@@ -1,0 +1,10 @@
+.bio-container {
+  width: fit-content;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.bio-container h2 {
+  font-size: 1.25rem;
+  text-align: center;
+}

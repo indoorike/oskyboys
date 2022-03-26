@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/oskyboys/static/css/main.08e1e698.css",
+    "main.js": "/oskyboys/static/js/main.7a5239e3.js",
+    "static/media/player-parent-handbook.pdf": "/oskyboys/static/media/player-parent-handbook.87d279d70889b804fd8c.pdf",
+    "static/media/stats-1.png": "/oskyboys/static/media/stats-1.f0ee0e26e935f23701a6.png",
+    "static/media/banner4.jpeg": "/oskyboys/static/media/banner4.67cb4c5abe43e41d841c.jpeg",
+    "static/media/banner1.jpeg": "/oskyboys/static/media/banner1.2ae6cfa053ae7ede44a9.jpeg",
+    "static/media/HeadsUpConcussionFactSheet.pdf": "/oskyboys/static/media/HeadsUpConcussionFactSheet.1825873892ccb9cbbd7f.pdf",
+    "static/media/schedule.jpeg": "/oskyboys/static/media/schedule.9705775891dca2f901bd.jpeg",
+    "static/media/gallery1.jpeg": "/oskyboys/static/media/gallery1.046db119233b7cfd881a.jpeg",
+    "static/media/banner3.jpg": "/oskyboys/static/media/banner3.3ce7a5758d36a83f15f5.jpg",
+    "static/media/banner2.jpeg": "/oskyboys/static/media/banner2.ffa4c336dcec87ba4a5b.jpeg",
+    "static/media/gallery2.jpeg": "/oskyboys/static/media/gallery2.06f0188b9943c377f755.jpeg",
+    "static/media/soccerball.png": "/oskyboys/static/media/soccerball.43ccfb3966e8d3041559.png",
+    "static/media/Preparticipation_Physical_Form_0710.pdf": "/oskyboys/static/media/Preparticipation_Physical_Form_0710.90088b83395a1de9f63e.pdf",
+    "static/media/Oskaloosa-High-School-Code-of-ConductInsurance.pdf": "/oskyboys/static/media/Oskaloosa-High-School-Code-of-ConductInsurance.9a7a3f1904e31bff149f.pdf",
+    "static/media/ConsentMedicalTreatment.pdf": "/oskyboys/static/media/ConsentMedicalTreatment.7bfa728d9b25eadbb08c.pdf",
+    "static/media/greg.jpeg": "/oskyboys/static/media/greg.c42c0e0d2f72763eb34e.jpeg",
+    "index.html": "/oskyboys/index.html",
+    "main.08e1e698.css.map": "/oskyboys/static/css/main.08e1e698.css.map",
+    "main.7a5239e3.js.map": "/oskyboys/static/js/main.7a5239e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e1e698.css",
+    "static/js/main.7a5239e3.js"
+  ]
+}
